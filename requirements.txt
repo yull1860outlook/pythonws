@@ -1,4 +1,5 @@
 websockets
 asyncio
+aioconsole
 flask
 flask-socketio
